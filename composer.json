@@ -1,9 +1,9 @@
 {
-  "name": "burdapraha/oc_tracy",
+  "name": "butopea/oc_tracy",
   "type": "vqmod-plugin",
   "description": "Implementation Tracy Debugger for Opencart 2.x",
   "keywords": ["opencart", "tracy-debugger", "tracy", "sql-queries"],
-  "homepage": "http://burda.cz/cs/kariera/volna-mista#tester-koder",
+  "homepage": "https://github.com/butopea/oc_tracy",
   "license": "MIT",
   "require": {
     "php": ">=5.4.0",
